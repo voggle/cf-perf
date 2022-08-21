@@ -1,0 +1,8 @@
+name = "cf-perf"
+main = "src/index.ts"
+compatibility_date = "2022-08-21"
+workers_dev = true
+
+kv_namespaces = [
+  { binding = "KV", id = "544bf2a1bf5448c1bdc80daf3eb81be6", preview_id = "c13af141f5184ba9b84ed3af23c294cb" }
+]
